@@ -30,15 +30,23 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 **GradiantBoost:** 
 
-**GridSearchCV:** 
-
 **Support Vector Machines (SVM):** 
+
+**Monte Carlo Simulations:** 
+
+**:** 
+
+**:** 
 
 <h3>Methods</h3>
 
 **One Hot Encoder (OHE):** 
 
-**Principal Component Analysis (PCA):** 
+**Principal Component Analysis (PCA):**  
+
+**GridSearchCV:** 
+
+**:** 
 
 **:** 
 </p>
@@ -119,9 +127,9 @@ For the second case, the code expands its scope to advanced operations. Apart fr
 
 
 <details>
-  <h2 align="center"> Monte Carlo to Predict Stock Price </h2>
+  <h2 align="center"> Monte Carlo Simulations to Predict Stock Price </h2>
   
-  <summary> Monte Carlo to Predict Stock Price </summary> 
+  <summary> Monte Carlo Simulations to Predict Stock Price </summary> 
 
   <p>
 The code implements a Stock Price Prediction Model using Monte Carlo simulation. It begins by extracting historical stock price data for Microsoft (MSFT) from Yahoo Finance. It analyzes the data by calculating and visualizing historical log returns and their distribution, along with computing key statistical measures like mean, variance, and standard deviation.
