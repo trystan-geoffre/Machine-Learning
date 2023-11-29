@@ -48,7 +48,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <br>
 
 <h2 align="center">🔎 Repository Overview 🔍</h2>
-<br>
+
 This repository is a testament to my exploration and experimentation within the domain of Deep Learning. It is divided into two primary sections:
 
 <br>
