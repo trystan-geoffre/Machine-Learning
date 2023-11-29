@@ -24,21 +24,21 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h3>Models</h3>
 
-**:** 
+**Support Vector Machines (SVM):** 
 
-**:** 
+**Logistic Regression: Lasso | Ridge |  Elasitc Net-Reglarization** 
 
-**:** 
+**GradiantBoost:** 
 
-**:** 
+**GridSearchCV:** 
 
-**:** 
+**Support Vector Machines (SVM):** 
 
 <h3>Methods</h3>
 
-**:** 
+**One Hot Encoder (OHE):** 
 
-**:** 
+**Principal Component Analysis (PCA):** 
 
 **:** 
 </p>
@@ -69,13 +69,13 @@ The provided code fits Logistic Regression models with different regularization 
 <br>
 
 <details>
-  <h2 align="center">  </h2>
+  <h2 align="center"> GradiantBoost & GridSearchCV </h2>
   
-  <summary>  </summary> 
+  <summary> GradiantBoost & GridSearchCV </summary> 
 
   <p>
-
-<a href=""> Code Link</a>
+The code begins by loading the Boston Housing dataset and organizing its features and target variable into Pandas DataFrames. Subsequently, it splits the dataset into training and testing sets using the train_test_split function from scikit-learn. Then, a Gradient Boosting Regressor model is created and trained on the training set. Predictions are made on the test set, and the R-squared score is calculated to evaluate the model's performance.
+Following this, the code visualizes the feature importances using a horizontal bar chart. It normalizes and sorts the importances before plotting. Finally, hyperparameter tuning is performed using GridSearchCV to optimize the Gradient Boosting Regressor model. The grid includes different combinations of learning rates and numbers of estimators. The best hyperparameters and their corresponding R-squared score on the training set are printed, providing insights into the optimal configuration for the model. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/GradiantBoost%20%26%20GridSearchCV.ipynb"> Code Link</a>
   </p>
   <br>
 </details>
@@ -84,13 +84,17 @@ The provided code fits Logistic Regression models with different regularization 
 
 
 <details>
-  <h2 align="center">  </h2>
+  <h2 align="center"> Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) </h2>
   
-  <summary>  </summary> 
+  <summary> Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) </summary> 
 
   <p>
+The code reads data from an Excel file into a Pandas DataFrame and performs several data processing steps. It renames columns, drops unnecessary columns, and conducts exploratory data analysis. It handles missing values and class imbalances through resampling. The code then prepares the data for modeling by encoding categorical features, splitting into training and testing sets, and scaling the features.
 
-<a href=""> Code Link</a>
+The Support Vector Classification (SVC) model is trained, and hyperparameter tuning is performed using grid search. The tuned model is then evaluated on the test set. Principal Component Analysis (PCA) is applied to reduce dimensionality, and the first two principal components are used to train an SVM model. The decision surface of the model is visualized in a 2D plot.
+
+Overall, the code covers data preprocessing, model training and tuning, dimensionality reduction, and visualization to analyze the performance of an SVM classifier on credit card default prediction.
+<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/SVM/Support%20Vector%20Machines%20(SVM)%20%26%20One%20Hot%20Encoder%20(OHE)%20%26%20Principal%20Component%20Analysis%20(PCA).ipynb"> Code Link</a>
   </p>
   <br>
 </details>
