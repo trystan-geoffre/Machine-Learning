@@ -103,13 +103,14 @@ Overall, the code covers data preprocessing, model training and tuning, dimensio
 
 
 <details>
-  <h2 align="center">  </h2>
+  <h2 align="center"> Case Study 1 & 2</h2>
   
   <summary>  </summary> 
 
   <p>
+In the context of a case study focused on data manipulation, the two examples illustrate common practices in data cleaning and enhancement. For both, the code addresses fundamental tasks such as handling missing values, eliminating irrelevant rows, and removing duplicate entries. It also encompasses actions like altering data types, concatenating information, and rectifying spelling errors. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%201.ipynb"> Code Link for Case Study 1</a>
 
-<a href=""> Code Link</a>
+For the second case, the code expands its scope to advanced operations. Apart from the foundational cleaning steps, it involves sorting data for improved organization, ranking data to identify patterns or outliers, extracting insightful information to address specific queries, and employing data visualization techniques for enhanced comprehension.  <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%202.ipynb"> Code Link</a>
   </p>
   <br>
 </details>
