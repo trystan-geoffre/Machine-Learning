@@ -124,14 +124,9 @@ For the second case, the code expands its scope to advanced operations. Apart fr
   <summary> Monte Carlo to Predict Stock Price </summary> 
 
   <p>
-The code implements a Stock Price Prediction Model using Monte Carlo simulation. It begins by extracting historical stock price data for Microsoft (MSFT) from Yahoo Finance. Subsequently, it analyzes the data by calculating and visualizing historical log returns and their distribution, along with computing key statistical measures like mean, variance, and standard deviation.
+The code implements a Stock Price Prediction Model using Monte Carlo simulation. It begins by extracting historical stock price data for Microsoft (MSFT) from Yahoo Finance. It analyzes the data by calculating and visualizing historical log returns and their distribution, along with computing key statistical measures like mean, variance, and standard deviation.
 
-The Monte Carlo simulation is then applied to simulate future daily returns using random numbers sampled from a normal distribution. This simulation generates a spectrum of potential future stock prices through iterative simulations, and the results are visualized.
-
-The model is further enhanced by including drift, adjusting daily returns based on the mean and variance. The quantification and analysis section calculates worst, average, and best-case scenarios for future stock prices. Confidence intervals are established to provide a range of possible future prices, offering insights into the potential variability of future scenarios.
-
-In summary, the code utilizes Monte Carlo simulation to predict future stock prices, incorporating historical data, statistical measures, and the concept of drift for a more realistic forecast. The quantification analysis offers a comprehensive view of potential future scenarios and their associated confidence intervals.
-<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Modeling%20Risk%20with%20Monte%20Carlo%20in%20Python%20-%20Downloads/Stocks%20Price%20Prediction.ipynb"> Code Link</a>
+The Monte Carlo simulation is then applied to simulate future daily returns using random numbers sampled from a normal distribution. This simulation generates a spectrum of potential future stock prices through iterative simulations, and the results are visualized. The model is further enhanced by including drift, adjusting daily returns based on the mean and variance. The quantification and analysis section calculates worst, average, and best-case scenarios for future stock prices. Confidence intervals are established to provide a range of possible future prices, offering insights into the potential variability of future scenarios. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Modeling%20Risk%20with%20Monte%20Carlo%20in%20Python%20-%20Downloads/Stocks%20Price%20Prediction.ipynb"> Code Link</a>
   </p>
   <br>
 </details>
