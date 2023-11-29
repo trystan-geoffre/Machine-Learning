@@ -152,4 +152,4 @@ In summary, the code utilizes Monte Carlo simulation to predict future stock pri
 </details>
 
 <br>
-This marks the conclusion of the repository on Machine Learning! For those interested in exploring Deep-Learning with the use of TensorFlow, I would invite you to visit the repository <a hre="https://github.com/trystan-geoffre/Deep-Learning-TensorFlow">Deep Learning with TensorFlow</a> to witness the exploration of Deep-Learning.
+This marks the conclusion of the repository on Machine Learning! For those interested in exploring Deep-Learning with the use of TensorFlow, I would invite you to visit the repository <a href="https://github.com/trystan-geoffre/Deep-Learning-TensorFlow"> Deep Learning with TensorFlow </a> to witness the exploration of Deep-Learning.
