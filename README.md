@@ -131,7 +131,7 @@ The Monte Carlo simulation is then applied to simulate future daily returns usin
 The model is further enhanced by including drift, adjusting daily returns based on the mean and variance. The quantification and analysis section calculates worst, average, and best-case scenarios for future stock prices. Confidence intervals are established to provide a range of possible future prices, offering insights into the potential variability of future scenarios.
 
 In summary, the code utilizes Monte Carlo simulation to predict future stock prices, incorporating historical data, statistical measures, and the concept of drift for a more realistic forecast. The quantification analysis offers a comprehensive view of potential future scenarios and their associated confidence intervals.
-<a href=""> Code Link</a>
+<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Modeling%20Risk%20with%20Monte%20Carlo%20in%20Python%20-%20Downloads/Stocks%20Price%20Prediction.ipynb"> Code Link</a>
   </p>
   <br>
 </details>
