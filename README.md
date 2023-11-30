@@ -61,41 +61,41 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <p>AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.
 
 **AdaBoostClassifier with SVM (AdaBoost with SVM):**
-AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.
+<p>AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.
 
 **GradientBoostingClassifier (Gradient Boosting):**
-GradientBoostingClassifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to progressively correct errors and improve model accuracy.
+<p>GradientBoostingClassifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to progressively correct errors and improve model accuracy.
 
 **DecisionTreeClassifier (Decision Tree):**
-DecisionTreeClassifier is a model that partitions the dataset into subsets based on feature values, creating a tree-like structure to make decisions.
+<p>DecisionTreeClassifier is a model that partitions the dataset into subsets based on feature values, creating a tree-like structure to make decisions.
 
 **Model Blending:**
-Model Blending combines predictions from multiple models to produce a final prediction, often enhancing overall model performance.
+<p>Model Blending combines predictions from multiple models to produce a final prediction, often enhancing overall model performance.
 
 <h1></h1>
 <h3>Specific Models</h3>
 
 **XGBoost Classifier:**
-XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.
+<p>XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.
 
 **Support Vector Machines (SVM): AdaBoostClassifier with SVM:**
-AdaBoostClassifier with SVM boosts the performance of a Support Vector Machine using the AdaBoost algorithm.
+<p>AdaBoostClassifier with SVM boosts the performance of a Support Vector Machine using the AdaBoost algorithm.
 
 **Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:**
-Logistic Regression with Lasso, Ridge, or Elastic Net regularization introduces penalties to control the magnitude of coefficients, preventing overfitting.
+<p>Logistic Regression with Lasso, Ridge, or Elastic Net regularization introduces penalties to control the magnitude of coefficients, preventing overfitting.
 
 **GradientBoost Classifier:**
-GradientBoost Classifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to improve model accuracy.
+<p>GradientBoost Classifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to improve model accuracy.
 
 **Monte Carlo Simulations:**
-Monte Carlo Simulations involve using random sampling and probability distributions to model and analyze various outcomes in a system.
+<p>Monte Carlo Simulations involve using random sampling and probability distributions to model and analyze various outcomes in a system.
 
 
 <h1></h1>
 <h3>Dimensionality Reduction</h3>
 
 **Principal Component Analysis (PCA):**
-Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.
+<p>Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.
 
 
 </p>
