@@ -24,6 +24,50 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h3>Models</h3>
 
+
+ChatGPT
+Certainly! Let's categorize the models and techniques based on their purposes:
+
+Data Modification:
+
+Binning
+Mapping
+Standard Scaling
+One-Hot Encoding
+Box-Cox Transformation
+Upgrading Model:
+GridSearchCV for Hyperparameter Tuning
+Cross-validation
+Modeling:
+
+Supervised Learning Models:
+
+RandomForestClassifier (Random Forest)
+LogisticRegression (Logistic Regression)
+AdaBoostClassifier (AdaBoost)
+AdaBoostClassifier with SVM (AdaBoost with SVM)
+GradientBoostingClassifier (Gradient Boosting)
+DecisionTreeClassifier (Decision Tree)
+Model Blending
+
+
+Specific Algorithms:
+ 
+XGBoost Classifier:
+
+Support Vector Machines (SVM): AdaBoostClassifier with SVM
+
+Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:
+
+GradientBoost Classifier: 
+
+**Monte Carlo Simulations:**
+
+
+Dimensionality Reduction:
+
+Principal Component Analysis (PCA)
+
 **Support Vector Machines (SVM):** 
 
 **Logistic Regression: Lasso | Ridge |  Elasitc Net-Reglarization** 
