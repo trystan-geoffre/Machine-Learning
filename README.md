@@ -26,7 +26,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 **Binning:**
 <p>Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.</p>
-
+<br>
 **Mapping:**
 <p>Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.
 
