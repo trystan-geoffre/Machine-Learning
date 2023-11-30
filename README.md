@@ -22,51 +22,65 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
   <summary> 📚 Models & Methods 📚</summary> 
 <p>
 
-<h3>Models</h3>
+<h3>Data Modification</h3>
 
+**Binning:**
 
-ChatGPT
-Certainly! Let's categorize the models and techniques based on their purposes:
+**Mapping:**
 
-Data Modification:
+**Standard Scaling:**
 
-Binning
-Mapping
-Standard Scaling
-One-Hot Encoding
-Box-Cox Transformation
-Upgrading Model:
-GridSearchCV for Hyperparameter Tuning
-Cross-validation
-Modeling:
+**One-Hot Encoding:**
 
-Supervised Learning Models:
+**Box-Cox Transformation:**
 
-RandomForestClassifier (Random Forest)
-LogisticRegression (Logistic Regression)
-AdaBoostClassifier (AdaBoost)
-AdaBoostClassifier with SVM (AdaBoost with SVM)
-GradientBoostingClassifier (Gradient Boosting)
-DecisionTreeClassifier (Decision Tree)
-Model Blending
+<h1></h1>
+<h3>Upgrading Model</h3>
 
+**GridSearchCV for Hyperparameter Tuning:**
 
-Specific Algorithms:
- 
-XGBoost Classifier:
+**Cross-validation:**
 
-Support Vector Machines (SVM): AdaBoostClassifier with SVM
+**Modeling:**
 
-Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:
+<h1></h1>
+<h3>Supervised Learning Models</h3>
 
-GradientBoost Classifier: 
+**RandomForestClassifier (Random Forest):**
+
+**LogisticRegression (Logistic Regression):**
+
+**AdaBoostClassifier (AdaBoost):**
+
+**AdaBoostClassifier with SVM (AdaBoost with SVM):**
+
+**GradientBoostingClassifier (Gradient Boosting):**
+
+**DecisionTreeClassifier (Decision Tree):**
+
+**Model Blending:**
+
+<h1></h1>
+<h3>Specific Algorithms</h3>
+
+**XGBoost Classifier:**
+
+**Support Vector Machines (SVM): AdaBoostClassifier with SVM:**
+
+**Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:**
+
+**GradientBoost Classifier:**
 
 **Monte Carlo Simulations:**
 
 
-Dimensionality Reduction:
+<h1></h1>
+<h3>Dimensionality Reduction</h3>
 
-Principal Component Analysis (PCA)
+**Principal Component Analysis (PCA):**
+
+
+
 
 **Support Vector Machines (SVM):** 
 
