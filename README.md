@@ -27,15 +27,19 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 **Binning:**
 <p>Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.</p>
 <br>
+
 **Mapping:**
 <p>Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.</p>
 <br>
+
 **Standard Scaling:**
 <p>Standard Scaling, or Z-score normalization, standardizes numerical features by rescaling them to have a mean of 0 and a standard deviation of 1, facilitating comparison between different scales of data.</p>
 <br>
+
 **One-Hot Encoding:**
 <p>One-Hot Encoding is a method for representing categorical variables as binary vectors, creating binary columns for each category and indicating the presence or absence of that category in the data.</p>
 <br>
+
 **Box-Cox Transformation:**
 <p>The Box-Cox Transformation is a statistical technique that stabilizes the variance and makes a distribution more closely approximate a normal distribution by applying a power transformation.</p>
 
@@ -45,6 +49,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 **GridSearchCV for Hyperparameter Tuning:**
 <p>GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.</p>
 <br>
+
 **Cross-validation:**
 <p>Cross-validation is a validation technique that partitions the dataset into subsets, training the model on some subsets and testing it on others to assess its performance and generalization.</p>
 
@@ -54,21 +59,27 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 **RandomForestClassifier (Random Forest):**
 <p>RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.
 <br>
+  
 **LogisticRegression (Logistic Regression):**
 <p>LogisticRegression is a linear model for binary classification that estimates the probability of an instance belonging to a particular class.
 <br>
+  
 **AdaBoostClassifier (AdaBoost):**
 <p>AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.
 <br>
+  
 **AdaBoostClassifier with SVM (AdaBoost with SVM):**
 <p>AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.
 <br>
+  
 **GradientBoostingClassifier (Gradient Boosting):**
 <p>GradientBoostingClassifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to progressively correct errors and improve model accuracy.
 <br>
+  
 **DecisionTreeClassifier (Decision Tree):**
 <p>DecisionTreeClassifier is a model that partitions the dataset into subsets based on feature values, creating a tree-like structure to make decisions.
 <br>
+  
 **Model Blending:**
 <p>Model Blending combines predictions from multiple models to produce a final prediction, often enhancing overall model performance.
 
@@ -78,15 +89,19 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 **XGBoost Classifier:**
 <p>XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.
 <br>
+  
 **Support Vector Machines (SVM): AdaBoostClassifier with SVM:**
 <p>AdaBoostClassifier with SVM boosts the performance of a Support Vector Machine using the AdaBoost algorithm.
 <br>
+  
 **Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:**
 <p>Logistic Regression with Lasso, Ridge, or Elastic Net regularization introduces penalties to control the magnitude of coefficients, preventing overfitting.
 <br>
+  
 **GradientBoost Classifier:**
 <p>GradientBoost Classifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to improve model accuracy.
 <br>
+  
 **Monte Carlo Simulations:**
 <p>Monte Carlo Simulations involve using random sampling and probability distributions to model and analyze various outcomes in a system.
 
