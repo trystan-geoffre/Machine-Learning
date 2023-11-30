@@ -23,6 +23,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <p>
 
 <h3>Data Modification</h3>
+<br>
 
 **Binning:**
 <p>Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.</p>
@@ -45,6 +46,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h1></h1>
 <h3>Upgrading Models</h3>
+<br>
 
 **GridSearchCV for Hyperparameter Tuning:**
 <p>GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.</p>
@@ -55,6 +57,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h1></h1>
 <h3>Supervised Learning Models</h3>
+<br>
 
 **RandomForestClassifier (Random Forest):**
 <p>RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.</p>
@@ -85,6 +88,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h1></h1>
 <h3>Specific Models</h3>
+<br>
 
 **XGBoost Classifier:**
 <p>XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.</p>
@@ -108,6 +112,7 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 
 <h1></h1>
 <h3>Dimensionality Reduction</h3>
+<br>
 
 **Principal Component Analysis (PCA):**
 <p>Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.</p>
