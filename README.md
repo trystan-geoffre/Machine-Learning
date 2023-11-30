@@ -131,9 +131,9 @@ This repository is a testament to my exploration and experimentation within the 
 <br>
 
 <details>
-  <h2 align="center"> Predicting Titanic Survivors </h2>
+  <h2 align="center"> 🚢 Predicting Titanic Survivors 🚢 </h2>
   
-  <summary> Predicting Titanic Survivors </summary> 
+  <summary> 🚢 Predicting Titanic Survivors 🚢 </summary> 
 
   <p>
 The code is a comprehensive demonstration of data preprocessing steps for a machine learning task on the Titanic dataset. The initial stages involve loading, combining, and exploring the datasets, addressing issues like duplicate rows and missing values. Techniques such as imputing missing data based on relevant factors, binning, and transforming features like 'Age' and 'Fare' are employed. Categorical variables are managed by employing one-hot encoding, and superfluous columns are eliminated. The data undergo skewness correction using techniques such as Box-Cox transformation, culminating in a well-prepared dataset for machine learning.
@@ -149,9 +149,9 @@ In the third part, an ensemble approach called model blending is implemented. Tr
 <br>
 
 <details>
-  <h2 align="center"> Logistic Regression using Lasso | Ridge | Elasitc Net-Reglarization </h2>
+  <h2 align="center">𓍯 Logistic Regression using Lasso | Ridge | Elasitc Net-Reglarization 𓍯</h2>
   
-  <summary> Logistic Regression using Lasso | Ridge | Elasitc Net-Reglarization </summary> 
+  <summary>𓍯 Logistic Regression using Lasso | Ridge | Elasitc Net-Reglarization 𓍯</summary> 
 
   <p>
 The provided code fits Logistic Regression models with different regularization techniques on a breast cancer dataset. The L1-regularized model (Lasso), L2-regularized model (Ridge), and elastic net-regularized model are trained on a standardized training set. The models are then evaluated using a comprehensive evaluation function, including metrics such as confusion matrix, accuracy, precision, recall, F1 score, ROC curve, and the distribution of predicted probabilities. Additionally, the code extracts and analyzes the coefficients of the features from each model, providing insights into the importance of individual features in making predictions. The elastic net model, which combines L1 and L2 regularization, aims to strike a balance between feature selection and regularization. The overall approach demonstrates a thorough analysis of logistic regression models with different regularization techniques applied to a breast cancer classification task.
@@ -163,9 +163,9 @@ The provided code fits Logistic Regression models with different regularization 
 <br>
 
 <details>
-  <h2 align="center"> GradiantBoost & GridSearchCV </h2>
+  <h2 align="center">🌐 GradiantBoost & GridSearchCV 🌐</h2>
   
-  <summary> GradiantBoost & GridSearchCV </summary> 
+  <summary>🌐 GradiantBoost & GridSearchCV 🌐</summary> 
 
   <p>
 The code begins by loading the Boston Housing dataset and organizing its features and target variable into Pandas DataFrames. Subsequently, it splits the dataset into training and testing sets using the train_test_split function from scikit-learn. Then, a Gradient Boosting Regressor model is created and trained on the training set. Predictions are made on the test set, and the R-squared score is calculated to evaluate the model's performance.
@@ -178,9 +178,9 @@ Following this, the code visualizes the feature importances using a horizontal b
 
 
 <details>
-  <h2 align="center"> Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) </h2>
+  <h2 align="center">📊 Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) 📊 </h2>
   
-  <summary> Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) </summary> 
+  <summary>📊 Support Vector Machines (SVM) & One Hot Encoder (OHE) & Principal Component Analysis (PCA) 📊</summary> 
 
   <p>
 The code reads data from an Excel file into a Pandas DataFrame and performs several data processing steps. It renames columns, drops unnecessary columns, and conducts exploratory data analysis. It handles missing values and class imbalances through resampling. The code then prepares the data for modeling by encoding categorical features, splitting into training and testing sets, and scaling the features.
@@ -197,9 +197,9 @@ Overall, the code covers data preprocessing, model training and tuning, dimensio
 
 
 <details>
-  <h2 align="center"> Monte Carlo Simulations to Predict Stock Price </h2>
+  <h2 align="center">📈 Monte Carlo Simulations to Predict Stock Price 📈</h2>
   
-  <summary> Monte Carlo Simulations to Predict Stock Price </summary> 
+  <summary>📈 Monte Carlo Simulations to Predict Stock Price 📈</summary> 
 
   <p>
 The code implements a Stock Price Prediction Model using Monte Carlo simulation. It begins by extracting historical stock price data for Microsoft (MSFT) from Yahoo Finance. It analyzes the data by calculating and visualizing historical log returns and their distribution, along with computing key statistical measures like mean, variance, and standard deviation.
@@ -212,9 +212,9 @@ The Monte Carlo simulation is then applied to simulate future daily returns usin
 <br>
 
 <details>
-  <h2 align="center"> Case Study 1 & 2: Data Cleaning</h2>
+  <h2 align="center">💠 Case Study 1 & 2: Data Cleaning 💠</h2>
   
-  <summary> Case Study 1 & 2 </summary> 
+  <summary>💠 Case Study 1 & 2 💠</summary> 
 
   <p>
 In the context of a case study focused on data manipulation, the two examples illustrate common practices in data cleaning and enhancement. For both, the code addresses fundamental tasks such as handling missing values, eliminating irrelevant rows, and removing duplicate entries. It also encompasses actions like altering data types, concatenating information, and rectifying spelling errors. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%201.ipynb"> Code Link for Case Study 1</a>
