@@ -57,60 +57,60 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <h3>Supervised Learning Models</h3>
 
 **RandomForestClassifier (Random Forest):**
-<p>RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.
+<p>RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.</p>
 <br>
   
 **LogisticRegression (Logistic Regression):**
-<p>LogisticRegression is a linear model for binary classification that estimates the probability of an instance belonging to a particular class.
+<p>LogisticRegression is a linear model for binary classification that estimates the probability of an instance belonging to a particular class.</p>
 <br>
   
 **AdaBoostClassifier (AdaBoost):**
-<p>AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.
+<p>AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.</p>
 <br>
   
 **AdaBoostClassifier with SVM (AdaBoost with SVM):**
-<p>AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.
+<p>AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.</p>
 <br>
   
 **GradientBoostingClassifier (Gradient Boosting):**
-<p>GradientBoostingClassifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to progressively correct errors and improve model accuracy.
+<p>GradientBoostingClassifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to progressively correct errors and improve model accuracy.</p>
 <br>
   
 **DecisionTreeClassifier (Decision Tree):**
-<p>DecisionTreeClassifier is a model that partitions the dataset into subsets based on feature values, creating a tree-like structure to make decisions.
+<p>DecisionTreeClassifier is a model that partitions the dataset into subsets based on feature values, creating a tree-like structure to make decisions.</p>
 <br>
   
 **Model Blending:**
-<p>Model Blending combines predictions from multiple models to produce a final prediction, often enhancing overall model performance.
+<p>Model Blending combines predictions from multiple models to produce a final prediction, often enhancing overall model performance.</p>
 
 <h1></h1>
 <h3>Specific Models</h3>
 
 **XGBoost Classifier:**
-<p>XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.
+<p>XGBoost Classifier is an implementation of gradient-boosted decision trees designed for speed and performance.</p>
 <br>
   
 **Support Vector Machines (SVM): AdaBoostClassifier with SVM:**
-<p>AdaBoostClassifier with SVM boosts the performance of a Support Vector Machine using the AdaBoost algorithm.
+<p>AdaBoostClassifier with SVM boosts the performance of a Support Vector Machine using the AdaBoost algorithm.</p>
 <br>
   
 **Logistic Regression: Lasso | Ridge | Elastic Net-Regularization:**
-<p>Logistic Regression with Lasso, Ridge, or Elastic Net regularization introduces penalties to control the magnitude of coefficients, preventing overfitting.
+<p>Logistic Regression with Lasso, Ridge, or Elastic Net regularization introduces penalties to control the magnitude of coefficients, preventing overfitting.</p>
 <br>
   
 **GradientBoost Classifier:**
-<p>GradientBoost Classifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to improve model accuracy.
+<p>GradientBoost Classifier is an ensemble learning method that builds a series of weak learners, typically decision trees, to improve model accuracy.</p>
 <br>
   
 **Monte Carlo Simulations:**
-<p>Monte Carlo Simulations involve using random sampling and probability distributions to model and analyze various outcomes in a system.
+<p>Monte Carlo Simulations involve using random sampling and probability distributions to model and analyze various outcomes in a system.</p>
 
 
 <h1></h1>
 <h3>Dimensionality Reduction</h3>
 
 **Principal Component Analysis (PCA):**
-<p>Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.
+<p>Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.</p>
 
 
 </p>
