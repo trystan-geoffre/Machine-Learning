@@ -8,7 +8,7 @@ Welcome to my repository dedicated to the captivating realm of Machine Learning!
 
 <h2 align="center">🌅 Journey Highlights 🌅</h2>
 <p>
-
+Opting to commence my journey with machine learning was a deliberate choice driven by the desire to leverage advanced computational techniques in solving complex problems. In this repository, you will find multiples technics to clean and prepar the data to be the the most efficiently used by various models. Also technics to upgrade the models and for dimensionality reduction.
 
 ---
 
