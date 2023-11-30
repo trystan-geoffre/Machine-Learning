@@ -130,6 +130,23 @@ This repository is a testament to my exploration and experimentation within the 
 
 <br>
 
+<details>
+  <h2 align="center"> Predicting Titanic Survivors </h2>
+  
+  <summary> Predicting Titanic Survivors </summary> 
+
+  <p>
+The code is a comprehensive demonstration of data preprocessing steps for a machine learning task on the Titanic dataset. The initial stages involve loading, combining, and exploring the datasets, addressing issues like duplicate rows and missing values. Techniques such as imputing missing data based on relevant factors, binning, and transforming features like 'Age' and 'Fare' are employed. Categorical variables are managed by employing one-hot encoding, and superfluous columns are eliminated. The data undergo skewness correction using techniques such as Box-Cox transformation, culminating in a well-prepared dataset for machine learning.
+
+The second part of the code focuses on splitting the dataset into training and validation sets, a crucial step in model development. Additionally, a separate dataset is prepared for making predictions. This section establishes the foundation for subsequent model training and evaluation, ensuring a robust and fair assessment of model performance.
+
+In the third part, an ensemble approach called model blending is implemented. Trained models, including Random Forest, Logistic Regression, AdaBoost, and AdaBoost with SVM, contribute to predicting probabilities for the positive class. Each model undergoes enhancements through either hyperparameter tuning or cross-validation.. The ensemble combines these probabilities, providing a balanced and aggregated prediction. The resulting blended predictions are stored in a CSV file for potential further analysis or submission. This three-part code encapsulates a holistic journey from data preprocessing to model training and ensemble-based predictions on the Titanic dataset.
+<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Titanic_Predictions.ipynb"> Code Link</a>
+  </p>
+  <br>
+</details>
+
+<br>
 
 <details>
   <h2 align="center"> Logistic Regression using Lasso | Ridge | Elasitc Net-Reglarization </h2>
@@ -180,22 +197,6 @@ Overall, the code covers data preprocessing, model training and tuning, dimensio
 
 
 <details>
-  <h2 align="center"> Case Study 1 & 2: Data Cleaning</h2>
-  
-  <summary> Case Study 1 & 2 </summary> 
-
-  <p>
-In the context of a case study focused on data manipulation, the two examples illustrate common practices in data cleaning and enhancement. For both, the code addresses fundamental tasks such as handling missing values, eliminating irrelevant rows, and removing duplicate entries. It also encompasses actions like altering data types, concatenating information, and rectifying spelling errors. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%201.ipynb"> Code Link for Case Study 1</a>
-
-For the second case, the code expands its scope to advanced operations. Apart from the foundational cleaning steps, it involves sorting data for improved organization, ranking data to identify patterns or outliers, extracting insightful information to address specific queries, and employing data visualization techniques for enhanced comprehension.  <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%202.ipynb"> Code Link for Case Study 2</a>
-  </p>
-  <br>
-</details>
-
-<br>
-
-
-<details>
   <h2 align="center"> Monte Carlo Simulations to Predict Stock Price </h2>
   
   <summary> Monte Carlo Simulations to Predict Stock Price </summary> 
@@ -210,22 +211,19 @@ The Monte Carlo simulation is then applied to simulate future daily returns usin
 
 <br>
 
-
 <details>
-  <h2 align="center"> Predicting Titanic Survivors </h2>
+  <h2 align="center"> Case Study 1 & 2: Data Cleaning</h2>
   
-  <summary> Predicting Titanic Survivors </summary> 
+  <summary> Case Study 1 & 2 </summary> 
 
   <p>
-The code is a comprehensive demonstration of data preprocessing steps for a machine learning task on the Titanic dataset. The initial stages involve loading, combining, and exploring the datasets, addressing issues like duplicate rows and missing values. Techniques such as imputing missing data based on relevant factors, binning, and transforming features like 'Age' and 'Fare' are employed. Categorical variables are managed by employing one-hot encoding, and superfluous columns are eliminated. The data undergo skewness correction using techniques such as Box-Cox transformation, culminating in a well-prepared dataset for machine learning.
+In the context of a case study focused on data manipulation, the two examples illustrate common practices in data cleaning and enhancement. For both, the code addresses fundamental tasks such as handling missing values, eliminating irrelevant rows, and removing duplicate entries. It also encompasses actions like altering data types, concatenating information, and rectifying spelling errors. <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%201.ipynb"> Code Link for Case Study 1</a>
 
-The second part of the code focuses on splitting the dataset into training and validation sets, a crucial step in model development. Additionally, a separate dataset is prepared for making predictions. This section establishes the foundation for subsequent model training and evaluation, ensuring a robust and fair assessment of model performance.
-
-In the third part, an ensemble approach called model blending is implemented. Trained models, including Random Forest, Logistic Regression, AdaBoost, and AdaBoost with SVM, contribute to predicting probabilities for the positive class. Each model undergoes enhancements through either hyperparameter tuning or cross-validation.. The ensemble combines these probabilities, providing a balanced and aggregated prediction. The resulting blended predictions are stored in a CSV file for potential further analysis or submission. This three-part code encapsulates a holistic journey from data preprocessing to model training and ensemble-based predictions on the Titanic dataset.
-<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Titanic_Predictions.ipynb"> Code Link</a>
+For the second case, the code expands its scope to advanced operations. Apart from the foundational cleaning steps, it involves sorting data for improved organization, ranking data to identify patterns or outliers, extracting insightful information to address specific queries, and employing data visualization techniques for enhanced comprehension.  <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Python/Case%20Study%202.ipynb"> Code Link for Case Study 2</a>
   </p>
   <br>
 </details>
+
 
 <br>
 This marks the conclusion of the repository on Machine Learning! For those interested in exploring Deep-Learning with the use of TensorFlow, I would invite you to visit the repository <a href="https://github.com/trystan-geoffre/Deep-Learning-TensorFlow"> Deep Learning with TensorFlow </a> to witness the exploration of Deep-Learning.
