@@ -28,25 +28,25 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <p>Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.</p>
 <br>
 **Mapping:**
-<p>Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.
+<p>Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.</p>
 <br>
 **Standard Scaling:**
-<p>Standard Scaling, or Z-score normalization, standardizes numerical features by rescaling them to have a mean of 0 and a standard deviation of 1, facilitating comparison between different scales of data.
+<p>Standard Scaling, or Z-score normalization, standardizes numerical features by rescaling them to have a mean of 0 and a standard deviation of 1, facilitating comparison between different scales of data.</p>
 <br>
 **One-Hot Encoding:**
-<p>One-Hot Encoding is a method for representing categorical variables as binary vectors, creating binary columns for each category and indicating the presence or absence of that category in the data.
+<p>One-Hot Encoding is a method for representing categorical variables as binary vectors, creating binary columns for each category and indicating the presence or absence of that category in the data.</p>
 <br>
 **Box-Cox Transformation:**
-<p>The Box-Cox Transformation is a statistical technique that stabilizes the variance and makes a distribution more closely approximate a normal distribution by applying a power transformation.
+<p>The Box-Cox Transformation is a statistical technique that stabilizes the variance and makes a distribution more closely approximate a normal distribution by applying a power transformation.</p>
 
 <h1></h1>
 <h3>Upgrading Models</h3>
 
 **GridSearchCV for Hyperparameter Tuning:**
-<p>GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.
+<p>GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.</p>
 <br>
 **Cross-validation:**
-<p>Cross-validation is a validation technique that partitions the dataset into subsets, training the model on some subsets and testing it on others to assess its performance and generalization.
+<p>Cross-validation is a validation technique that partitions the dataset into subsets, training the model on some subsets and testing it on others to assess its performance and generalization.</p>
 
 <h1></h1>
 <h3>Supervised Learning Models</h3>
