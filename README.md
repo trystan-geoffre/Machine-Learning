@@ -217,8 +217,12 @@ The Monte Carlo simulation is then applied to simulate future daily returns usin
   <summary> Predicting Titanic Survivors </summary> 
 
   <p>
+The code is a comprehensive demonstration of data preprocessing steps for a machine learning task on the Titanic dataset. The initial stages involve loading, combining, and exploring the datasets, addressing issues like duplicate rows and missing values. Techniques such as imputing missing data based on relevant factors, binning, and transforming features like 'Age' and 'Fare' are employed. Categorical variables are managed by employing one-hot encoding, and superfluous columns are eliminated. The data undergo skewness correction using techniques such as Box-Cox transformation, culminating in a well-prepared dataset for machine learning.
 
-<a href=""> Code Link</a>
+The second part of the code focuses on splitting the dataset into training and validation sets, a crucial step in model development. Additionally, a separate dataset is prepared for making predictions. This section establishes the foundation for subsequent model training and evaluation, ensuring a robust and fair assessment of model performance.
+
+In the third part, an ensemble approach called model blending is implemented. Trained models, including Random Forest, Logistic Regression, AdaBoost, and AdaBoost with SVM, contribute to predicting probabilities for the positive class. Each model undergoes enhancements through either hyperparameter tuning or cross-validation.. The ensemble combines these probabilities, providing a balanced and aggregated prediction. The resulting blended predictions are stored in a CSV file for potential further analysis or submission. This three-part code encapsulates a holistic journey from data preprocessing to model training and ensemble-based predictions on the Titanic dataset.
+<a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Titanic_Predictions.ipynb"> Code Link</a>
   </p>
   <br>
 </details>
