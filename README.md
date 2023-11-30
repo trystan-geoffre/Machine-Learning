@@ -25,40 +25,40 @@ Before diving into the projects, you'll find a comprehensive list of Models and 
 <h3>Data Modification</h3>
 
 **Binning:**
-Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.
+<p>Binning is a data preprocessing technique that involves grouping continuous numerical data into discrete intervals or "bins," simplifying complex distributions and reducing noise.</p>
 
 **Mapping:**
-Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.
+<p>Mapping involves transforming values from one range to another, often used to normalize or scale features within a specific desired range.
 
 **Standard Scaling:**
-Standard Scaling, or Z-score normalization, standardizes numerical features by rescaling them to have a mean of 0 and a standard deviation of 1, facilitating comparison between different scales of data.
+<p>Standard Scaling, or Z-score normalization, standardizes numerical features by rescaling them to have a mean of 0 and a standard deviation of 1, facilitating comparison between different scales of data.
 
 **One-Hot Encoding:**
-One-Hot Encoding is a method for representing categorical variables as binary vectors, creating binary columns for each category and indicating the presence or absence of that category in the data.
+<p>One-Hot Encoding is a method for representing categorical variables as binary vectors, creating binary columns for each category and indicating the presence or absence of that category in the data.
 
 **Box-Cox Transformation:**
-The Box-Cox Transformation is a statistical technique that stabilizes the variance and makes a distribution more closely approximate a normal distribution by applying a power transformation.
+<p>The Box-Cox Transformation is a statistical technique that stabilizes the variance and makes a distribution more closely approximate a normal distribution by applying a power transformation.
 
 <h1></h1>
 <h3>Upgrading Models</h3>
 
 **GridSearchCV for Hyperparameter Tuning:**
-GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.
+<p>GridSearchCV is a technique for systematically searching and selecting the optimal combination of hyperparameters for a machine learning model by evaluating performance across different parameter values.
 
 **Cross-validation:**
-Cross-validation is a validation technique that partitions the dataset into subsets, training the model on some subsets and testing it on others to assess its performance and generalization.
+<p>Cross-validation is a validation technique that partitions the dataset into subsets, training the model on some subsets and testing it on others to assess its performance and generalization.
 
 <h1></h1>
 <h3>Supervised Learning Models</h3>
 
 **RandomForestClassifier (Random Forest):**
-RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.
+<p>RandomForestClassifier is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks.
 
 **LogisticRegression (Logistic Regression):**
-LogisticRegression is a linear model for binary classification that estimates the probability of an instance belonging to a particular class.
+<p>LogisticRegression is a linear model for binary classification that estimates the probability of an instance belonging to a particular class.
 
 **AdaBoostClassifier (AdaBoost):**
-AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.
+<p>AdaBoostClassifier is an ensemble learning algorithm that combines weak learners sequentially, with each focusing on the mistakes of its predecessor, to improve overall accuracy.
 
 **AdaBoostClassifier with SVM (AdaBoost with SVM):**
 AdaBoostClassifier with SVM involves boosting the performance of a Support Vector Machine using the AdaBoost algorithm.
@@ -98,35 +98,6 @@ Monte Carlo Simulations involve using random sampling and probability distributi
 Principal Component Analysis is a technique for reducing the dimensionality of data while preserving its variance, often used for feature extraction and visualization in high-dimensional datasets.
 
 
-
-
-**Support Vector Machines (SVM):** 
-
-**Logistic Regression: Lasso | Ridge |  Elasitc Net-Reglarization** 
-
-**GradiantBoost:** 
-
-**Support Vector Machines (SVM):** 
-
-**Monte Carlo Simulations:** 
-
-**:** 
-
-**:**
-
-<h1></h1>
-
-<h3>Methods</h3>
-
-**One Hot Encoder (OHE):** 
-
-**Principal Component Analysis (PCA):**  
-
-**GridSearchCV:** 
-
-**:** 
-
-**:** 
 </p>
   <br>
 </details>
