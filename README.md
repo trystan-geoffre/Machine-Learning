@@ -8,7 +8,7 @@ Welcome to my repository dedicated to the captivating realm of Machine Learning!
 
 <h2 align="center">🌅 Journey Highlights 🌅</h2>
 <p>
-Opting to commence my journey with machine learning was a deliberate choice driven by the desire to leverage advanced computational techniques in solving complex problems. In this repository, you will find multiples technics to clean and prepar the data to be the the most efficiently used by various models. Also technics to upgrade the models and for dimensionality reduction.
+Opting to start my journey with machine learning was a deliberate choice driven by the desire to leverage advanced computational techniques in solving complex problems. In this repository, you will find multiple technics to clean and prepare the data to be used in the the most efficient way by various models. Also, technics to upgrade the models and for dimensionality reduction are documented.
 
 ---
 
@@ -140,7 +140,7 @@ The code is a comprehensive demonstration of data preprocessing steps for a mach
 
 The second part of the code focuses on splitting the dataset into training and validation sets, a crucial step in model development. Additionally, a separate dataset is prepared for making predictions. This section establishes the foundation for subsequent model training and evaluation, ensuring a robust and fair assessment of model performance.
 
-In the third part, an ensemble approach called model blending is implemented. Trained models, including Random Forest, Logistic Regression, AdaBoost, and AdaBoost with SVM, contribute to predicting probabilities for the positive class. Each model undergoes enhancements through either hyperparameter tuning or cross-validation.. The ensemble combines these probabilities, providing a balanced and aggregated prediction. The resulting blended predictions are stored in a CSV file for potential further analysis or submission. This three-part code encapsulates a holistic journey from data preprocessing to model training and ensemble-based predictions on the Titanic dataset.
+In the third part, an "ensemble" approach called model blending is implemented. Trained models, including Random Forest, Logistic Regression, AdaBoost, and AdaBoost with SVM, contribute to predicting probabilities for the positive class. Each model undergoes enhancements through either hyperparameter tuning or cross-validation... The ensemble combines these probabilities, providing a balanced and aggregated prediction. The resulting blended predictions are stored in a CSV file for potential further analysis or submission. This three-part code encapsulates a holistic journey from data preprocessing to model training and ensemble-based predictions on the Titanic dataset.
 <a href="https://github.com/trystan-geoffre/Machine-Learning/blob/master/Titanic_Predictions.ipynb"> Code Link</a>
   </p>
   <br>
